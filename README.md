@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anoop Lanjekar</h1>
-<h3 align="center">I'm a sophomore at PES Modern College of Engineering, Pune</h3>
+<h3 align="center">I'm a Junior at PES Modern College of Engineering, Pune</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/dPSiy7Ief8AAAAAC/multitasking-multitask.gif">
 
 <p align="left"> <a href="https://twitter.com/anooplanjekar" target="blank"><img src="https://img.shields.io/twitter/follow/anooplanjekar?logo=twitter&style=for-the-badge" alt="anooplanjekar" /></a> </p>
