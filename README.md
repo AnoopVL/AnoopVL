@@ -26,7 +26,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoopvl" alt="anoopvl" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anoopvl&show_icons=true&locale=en&layout=compact" alt="anoopvl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anoopvl&show_icons=true&locale=en" alt="anoopvl" /></p>
 
