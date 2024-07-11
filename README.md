@@ -26,6 +26,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoopvl&theme=algolia" alt="anoopvl" /></a> </p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anoopvl&show_icons=true&locale=en&theme=tokyonight" alt="anoopvl" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anoopvl&theme=tokyonight)](https://git.io/streak-stats)
