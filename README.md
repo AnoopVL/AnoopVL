@@ -29,3 +29,19 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anoopvl&show_icons=true&locale=en&theme=tokyonight" alt="anoopvl" /></p>
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=anoopvl&theme=tokyonight" alt="anoopvl" /></a></p>
+
+
+<h2 align="center">Leetcode Stats<h2>  
+<p align="center">
+  <a href="https://leetcode.com/AnoopVL/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/AnoopVL/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/AnoopVL/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/AnoopVL/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/AnoopVL/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
+    <a href="https://leetcode.com/AnoopVL/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
+
+</p>
+<p align="center">
+<!-- <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AnoopVL?theme=dark&font=Nunito&ext=heatmap" />  -->
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AnoopVL?theme=dark&font=Nunito&ext=contest" /> 
+</p>
