@@ -43,5 +43,5 @@
 </p>
 <p align="center">
 <!-- <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AnoopVL?theme=dark&font=Nunito&ext=heatmap" />  -->
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AnoopVL?theme=dark&font=Nunito&ext=contest" /> 
+  <a href="https://leetcode.com/AnoopVL/" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AnoopVL?theme=dark&font=Nunito&ext=contest" /> </a>
 </p>
