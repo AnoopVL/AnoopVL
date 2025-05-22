@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN, MySql, Android, Firebase, JAVA**
 
-- 📫 How to reach me **contact.anoopvl@gmail.com**
+- 📫 How to reach me **anoop@anoopvl.pro**
 
 
 <h3 align="left">Connect with me:</h3>
