@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoopvl&label=Profile%20views&color=0e75b6&style=flat" alt="anoopvl" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA** and **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://anoopvl.netlify.app/](https://anoopvl.netlify.app/)
 
-- 💬 Ask me about **MERN, MySql, Android, Firebase, JAVA**
+- 💬 Ask me about **Next.js, PostreSQL, Leetcode, Android, Firebase, JAVA**
 
 - 📫 How to reach me **anoop@anoopvl.pro**
 
