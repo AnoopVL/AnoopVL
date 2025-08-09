@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anoopvl.netlify.app/](https://anoopvl.netlify.app/)
 
-- 💬 Ask me about **Next.js, PostreSQL, Leetcode, Android, Firebase, JAVA**
+- 💬 Ask me about **Next.js, PostgreSQL, Leetcode, Android, Firebase, JAVA**
 
 - 📫 How to reach me **anoop@anoopvl.pro**
 
